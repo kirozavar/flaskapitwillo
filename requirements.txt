@@ -1,5 +1,5 @@
 Flask
 Gunicorn
 pandas
-dotenv
 twilio
+flask_sock
